@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Minimalistic *JavaScript* starter
+# Authentication Test Starter with Cypress
 
 ## Feature tags
 
@@ -9,6 +9,7 @@
 - javascript
 - starter
 - template
+- test
 
 ## Parents
 
