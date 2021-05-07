@@ -33,7 +33,7 @@
 Opens the Cypress Test Runner:
 
 ```sh
-npm run cypress:run
+npm run cypress:open
 ```
 
 Run all tests heedlessly in the Electron browser:
