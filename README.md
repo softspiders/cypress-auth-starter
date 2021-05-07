@@ -20,6 +20,10 @@
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
+## Inspiration
+
+Originate from [Cypress Starter Kit](https://github.com/rightsaidjames/cypress-starter-kit)
+
 ---
 
 ## Requirements

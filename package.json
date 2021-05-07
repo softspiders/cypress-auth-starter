@@ -18,7 +18,7 @@
     "auth",
     "cypress"
   ],
-  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/AlexanderLapygin) - inspired by https://github.com/rightsaidjames/cypress-starter-kit",
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/AlexanderLapygin),
   "license": "MIT",
   "devDependencies": {
     "cypress": "^7.2.0"
