@@ -7,7 +7,6 @@
 - auth
 - cypress
 - javascript
-- starter
 - template
 - test
 
