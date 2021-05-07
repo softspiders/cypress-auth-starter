@@ -30,7 +30,17 @@
 
 ## Running
 
-TBD
+Opens the Cypress Test Runner:
+
+```sh
+npm run cypress:run
+```
+
+Run all tests heedlessly in the Electron browser:
+
+```sh
+npm run cypress:run
+```
 
 ### License
 
