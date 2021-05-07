@@ -1,7 +1,7 @@
 {
   "name": "cypress-auth-starter",
   "version": "0.1.0",
-  "description": "Authentication Testing starter with Cypress",
+  "description": "Authentication Testing with Cypress",
   "main": "index.js",
   "directories": {
     "test": "tests"

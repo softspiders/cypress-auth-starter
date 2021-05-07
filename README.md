@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Authentication Testing starter with Cypress
+# Authentication Testing with Cypress
 
 ## Feature tags
 
