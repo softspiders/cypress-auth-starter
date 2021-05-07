@@ -1,17 +1,18 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Minimalistic *Cypress* starter
+# Minimalistic *JavaScript* starter
 
 ## Feature tags
 
+- auth
 - cypress
+- javascript
 - starter
 - template
-- test
 
-## Children
+## Parents
 
-- [+ ***auth***: cypress-starter](https://github.com/softspiders/cypress-auth-starter)
+- [- ***auth***: cypress-starter](https://github.com/softspiders/cypress-starter)
 
 ---
 
