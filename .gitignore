@@ -1,4 +1,4 @@
-  
+
 # Directories
 node_modules/
 tests/cypress/screenshots/
@@ -7,4 +7,6 @@ tests/cypress/videos/
 # Files
 .DS_Store
 tests/cypress/fixtures/auth.json
+
+# IDE
 /.idea/
