@@ -37,7 +37,7 @@ Originate from [Cypress Starter Kit](https://github.com/rightsaidjames/cypress-s
 Opens the Cypress Test Runner:
 
 ```sh
-npm run cypress:open
+npm run cypress
 ```
 
 Run all tests heedlessly in the Electron browser:
