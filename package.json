@@ -16,7 +16,9 @@
   },
   "keywords": [
     "auth",
-    "cypress"
+    "cypress",
+    "test",
+    "starter"
   ],
   "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/AlexanderLapygin)",
   "license": "MIT",
