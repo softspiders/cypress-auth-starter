@@ -26,7 +26,7 @@ Originate from [Cypress Starter Kit](https://github.com/rightsaidjames/cypress-s
 
 ---
 
-## Requirements
+## Pre-requisites
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
