@@ -40,6 +40,8 @@ Opens the Cypress Test Runner:
 npm run cypress:open
 ```
 
+Then run tests interactively
+
 Run all tests heedlessly in the Electron browser:
 
 ```sh
