@@ -25,7 +25,7 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 Cypress.Commands.add('login', (user, password) => {
-  
+
   // Replace with your app's login page URL
   // or use cy.get('#my-account-button').click() command (or similar) to open a login modal
   cy.visit('/login')
@@ -41,7 +41,7 @@ Cypress.Commands.add('viewportPreset', (size = '') => {
     case 'samsung-s10-plus':
       cy.viewport(412, 869)
       break
-    case 'iphone-se': 
+    case 'iphone-se':
       cy.viewport(375, 667)
       break
     case 'ipad-pro':
